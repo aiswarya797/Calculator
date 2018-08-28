@@ -1,0 +1,15 @@
+Build a Calculator
+
+● Basic Features
+
+○ Addition, Subtraction, Multiplication, Division of integers and floats.
+○ Division by zero should display NaN
+○ Clear operation should work
+○ Decimal values should be formatted for display. (2 decimal places)
+○ Integer results should not be displayed as 4.0 instead of 4.
+
+● Advanced Features
+○ Maintain history of last 20 operations. (Use Recycler View or List View)
+○ Error handling for invalid strings e.g. 1.2.3 , 0..1 , 1. Etc.
+○ Clearing the entire text on Long Click and individual characters on Short Click of Clear button
+○ Try to replicate the design of your mobile’s calculator app.
